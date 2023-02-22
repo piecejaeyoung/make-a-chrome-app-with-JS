@@ -2,13 +2,3 @@
   display: none;
 }
 
-.clock {
-  position: absolute;
-  top: 10%;
-  left: 50%;
-  transform: translateX(-50%) translateY(-50%);
-  color: #1823c4;
-  font-size: 60px;
-  font-family: Orbitron;
-  letter-spacing: 7px;   
-}
